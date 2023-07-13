@@ -1,6 +1,8 @@
 # GunWar
 Ngắm chuẩn để tiêu diệt được thật nhiều kẻ địch!
 ## 1. Cài đặt:
+tải file apk
+[Tại đây](https://drive.google.com/drive/folders/1YijOX8UzFqfUMKj3xkU3orcheHl7cnka?usp=sharing)
 ## 2. Hướng dẫn chơi và giới thiệu game:
 Người chơi chạm và giữ màn hình để xoay pháo và ngắm chuẩn về kẻ địch. Nếu bắn trúng, hành trình tiếp tục. Nếu bắn trượt, hành trình kết thúc!
 
